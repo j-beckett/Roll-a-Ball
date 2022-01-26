@@ -1,7 +1,7 @@
 # Roll-a-Ball
 
-#Wanna Play? 
+Wanna Play? 
 
-#Navigate to the Build directory. Download the "My project.exe" file 
+Navigate to the Build directory. Download the "My project.exe" file 
 
 Have fun :) 
